@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Duem\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-23 15:32+0000\n"
-"PO-Revision-Date: 2021-10-23 16:00+0000\n"
+"PO-Revision-Date: 2021-10-23 16:54+0000\n"
 "Last-Translator: \n"
 "Language-Team: Русский\n"
 "Language: ru_RU\n"
@@ -15,6 +15,18 @@ msgstr ""
 "X-Generator: Loco https://localise.biz/\n"
 "X-Loco-Version: 2.5.5; wp-5.8.1\n"
 "X-Domain: duem"
+
+#: cpt/products.php:8
+msgid "Add new product"
+msgstr "Добавить новый продукт"
+
+#: single-product.php:16
+msgid "Availability"
+msgstr "Наличие на складе"
+
+#: single-product.php:17
+msgid "Available"
+msgstr "Есть"
 
 #. Name of the theme
 msgid "Duem"
@@ -33,7 +45,23 @@ msgstr ""
 msgid "Maxim Nepomniashchiy"
 msgstr ""
 
-#: functions.php:10
+#: single-product.php:17
+msgid "Not Available"
+msgstr "Нет"
+
+#: single-product.php:37
+msgid "Order"
+msgstr "Заказать"
+
+#: single-product.php:36
+msgid "Phone"
+msgstr "Ваш номер телефона"
+
+#: single-product.php:18
+msgid "Price"
+msgstr "Цена"
+
+#: functions.php:11
 msgid "Primary"
 msgstr "Основное"
 
@@ -44,6 +72,18 @@ msgstr "Продукт"
 #: cpt/products.php:6
 msgid "Products"
 msgstr "Продукты"
+
+#: single-product.php:14
+msgid "Puff"
+msgstr "Количество затяжек"
+
+#: single-product.php:47
+msgid "Similar products"
+msgstr "Похожие товары"
+
+#: single-product.php:12
+msgid "Taste"
+msgstr "Вкус"
 
 #. Description of the theme
 msgid "Wordpress template for Duem"

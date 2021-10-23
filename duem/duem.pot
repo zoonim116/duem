@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Duem\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-23 15:32+0000\n"
+"POT-Creation-Date: 2021-10-23 16:52+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: \n"
@@ -15,6 +15,18 @@ msgstr ""
 "X-Generator: Loco https://localise.biz/\n"
 "X-Loco-Version: 2.5.5; wp-5.8.1\n"
 "X-Domain: duem"
+
+#: cpt/products.php:8
+msgid "Add new product"
+msgstr ""
+
+#: single-product.php:16
+msgid "Availability"
+msgstr ""
+
+#: single-product.php:17
+msgid "Available"
+msgstr ""
 
 #. Name of the theme
 msgid "Duem"
@@ -33,7 +45,23 @@ msgstr ""
 msgid "Maxim Nepomniashchiy"
 msgstr ""
 
-#: functions.php:10
+#: single-product.php:17
+msgid "Not Available"
+msgstr ""
+
+#: single-product.php:37
+msgid "Order"
+msgstr ""
+
+#: single-product.php:36
+msgid "Phone"
+msgstr ""
+
+#: single-product.php:18
+msgid "Price"
+msgstr ""
+
+#: functions.php:11
 msgid "Primary"
 msgstr ""
 
@@ -43,6 +71,18 @@ msgstr ""
 
 #: cpt/products.php:6
 msgid "Products"
+msgstr ""
+
+#: single-product.php:14
+msgid "Puff"
+msgstr ""
+
+#: single-product.php:47
+msgid "Similar products"
+msgstr ""
+
+#: single-product.php:12
+msgid "Taste"
 msgstr ""
 
 #. Description of the theme
