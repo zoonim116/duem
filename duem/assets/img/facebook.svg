@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Прямоугольник_2235" data-name="Прямоугольник 2235" width="16" height="16" transform="translate(10774 9065)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Группа_масок_70" data-name="Группа масок 70" transform="translate(-10774 -9065)" clip-path="url(#clip-path)">
+    <g id="XMLID_834_" transform="translate(10778 9065)">
+      <path id="XMLID_835_" d="M76.961,8.522h1.754v7.22a.258.258,0,0,0,.258.258h2.974a.258.258,0,0,0,.258-.258V8.556h2.016a.258.258,0,0,0,.256-.229l.306-2.658a.258.258,0,0,0-.256-.288H82.2V3.715c0-.5.27-.757.8-.757h1.518a.258.258,0,0,0,.258-.258V.26A.258.258,0,0,0,84.527,0H82.435l-.1,0a4.01,4.01,0,0,0-2.622.988A2.75,2.75,0,0,0,78.8,3.433V5.381H76.961a.258.258,0,0,0-.258.258V8.263A.258.258,0,0,0,76.961,8.522Z" transform="translate(-76.703)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
