@@ -17,7 +17,7 @@ function create_faq_post_type() {
 
 add_action( 'init', 'create_faq_post_type' );
 
-add_action('show_faq_items_action', 'show_faq_items');
+add_action('show_faq_items_action', 'show_faq_items', 10);
 
 function show_faq_items() {
     $items = get_posts([

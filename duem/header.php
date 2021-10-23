@@ -23,11 +23,6 @@
             </div>
           </div>
           <div class="col-xxl-6 col-sm-8 d-flex align-items-center justify-content-between right-menu">
-            <ul class="menu d-flex ">
-              <li class="active"><a href="#">Главная</a></li>
-              <li><a href="#">Tовары</a></li>
-              <li><a href="#">Часто задаваемые вопросы</a></li>
-            </ul>
             <?php
                 wp_nav_menu([
                     'theme_location' => 'top-header-menu',

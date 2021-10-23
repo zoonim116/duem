@@ -3,13 +3,16 @@
 require_once 'cpt/_loader.php';
 
 function duem_setup() {
-	add_theme_support( 'html5', array( 'search-form' ) );
+	add_theme_support( 'html5' );
+	add_theme_support('post-thumbnails');
 
 	register_nav_menus(
         [
 			'top-header-menu' => esc_html__( 'Primary', 'duem' ),
         ]
 	);
+
+	load_theme_textdomain('duem');
 }
 
 add_action( 'after_setup_theme', 'duem_setup' );
